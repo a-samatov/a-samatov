@@ -1,15 +1,3 @@
-<div align="center">
-
-### Middle Frontend-разработчик · Vue 3 / Nuxt 3 / TypeScript
-
-*Астана, Казахстан*
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/77001230801)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:4samatov@gmail.com)
-
-</div>
-
----
 
 ## 👨‍💻 О себе
 
@@ -44,7 +32,7 @@
 
 ---
 
-## 🚀 Проекты
+## 🚀 Последний проект
 
 ### 🏗️ [Atamura Group — Единая цифровая платформа](https://github.com/a-samatov/atamura-platform)
 Трёхкомпонентная система для казахстанского застройщика: SSR-портал на Nuxt 3, Vue 3 админ-панель и Go-бэкенд. 8 жилых комплексов, три языка, Lighthouse 95+, мгновенная индексация Google.
@@ -59,11 +47,3 @@
 |----------|--------|------|
 | Amanix Studio | Май 2025 — наст. время | Frontend-разработчик |
 | НАО Университет Нархоз | Фев 2023 — Май 2025 | Frontend-разработчик |
-
----
-
-<div align="center">
-
-*Открыт к новым предложениям — пишите в WhatsApp или на почту*
-
-</div>
